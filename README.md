@@ -1,35 +1,17 @@
-# Публикации статей (переводы)
+<h2><img src="https://assets.habr.com/habr-web/img/favicons/favicon-32.png" style="height:28px;width:28px" align="left"> Habr</h2>
 
-### 2024
-
-- [x] [Как пройти собеседование в FAANG. Мой опыт и рекомендации в 2024 году](https://habr.com/ru/articles/820441/)
-
-### 2023
-
-- [x] [Что такое деление по модулю в JavaScript?](https://habr.com/ru/articles/770522/)
-
-### 2018
-
-- [x] [Удивительный Angular](https://habr.com/ru/articles/348818/)
-
-### 2017
-
-- [x] [Angular 5](https://habr.com/ru/articles/341688/)
-
-### 2016
-
-- [x] [Просто Angular](https://habr.com/ru/users/splincodewd/publications/articles/)
-- [x] [Математика в JavaScript](https://habr.com/ru/articles/312880/)
-- [x] [Frontend-разработчики должны быть в теме всего](https://habr.com/ru/articles/306716/)
-- [x] [Руководство по PHP7](https://habr.com/ru/articles/302942/)
-- [x] [Программист ли я, или просто хорошо гуглю?](https://habr.com/ru/articles/301674/)
-- [x] [ES5 руководство по JavaScript](https://habr.com/ru/articles/281110/)
-- [x] [Руководство по HTML/CSS/JavaScript](https://habr.com/ru/articles/275729/)
-- [x] [Несколько дельных советов по CSS](https://habr.com/ru/articles/273403/)
-- [x] [Коллекция практических советов и заметок по вёрстке](https://habr.com/ru/articles/273471/)
-
-### 2015
-
-- [x] [PHP vs Node.js](https://habr.com/ru/articles/273259/)
-
-
+- [x] [<b>2025</b> / Две строки CSS, которые снизили производительность со 120 до 40 FPS](https://habr.com/ru/articles/864840/)
+- [x] [<b>2024</b> / Как пройти собеседование в FAANG. Мой опыт и рекомендации в 2024 году](https://habr.com/ru/articles/820441/)
+- [x] [<b>2023</b> / Что такое деление по модулю в JavaScript?](https://habr.com/ru/articles/770522/)
+- [x] [<b>2018</b> / Удивительный Angular](https://habr.com/ru/articles/348818/)
+- [x] [<b>2017</b> / Angular 5](https://habr.com/ru/articles/341688/)
+- [x] [<b>2016</b> / Просто Angular](https://habr.com/ru/users/splincodewd/publications/articles/)
+- [x] [<b>2016</b> / Математика в JavaScript](https://habr.com/ru/articles/312880/)
+- [x] [<b>2016</b> / Frontend-разработчики должны быть в теме всего](https://habr.com/ru/articles/306716/)
+- [x] [<b>2016</b> / Руководство по PHP7](https://habr.com/ru/articles/302942/)
+- [x] [<b>2016</b> / Программист ли я, или просто хорошо гуглю?](https://habr.com/ru/articles/301674/)
+- [x] [<b>2016</b> / ES5 руководство по JavaScript](https://habr.com/ru/articles/281110/)
+- [x] [<b>2016</b> / Руководство по HTML/CSS/JavaScript](https://habr.com/ru/articles/275729/)
+- [x] [<b>2016</b> / Несколько дельных советов по CSS](https://habr.com/ru/articles/273403/)
+- [x] [<b>2016</b> / Коллекция практических советов и заметок по вёрстке](https://habr.com/ru/articles/273471/)
+- [x] [<b>2015</b> / PHP vs Node.js](https://habr.com/ru/articles/273259/)
