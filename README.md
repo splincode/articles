@@ -42,6 +42,8 @@
 - [x] [<b>2018</b>. Удивительный Angular](https://medium.com/@splincode/%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-angular-42238622d170)
 - [x] [<b>2017</b>. Вышел Angular 5](https://medium.com/@splincode/%D0%B2%D1%8B%D1%88%D0%B5%D0%BB-angular-5-af1bc19ff5db)
 
-<h2>Drafts</h2>
+<h2>Черновики переводов</h2>
 
 - [x] [<b>2017</b>. Перевод Chromium архитектуры](https://github.com/splincode/chromium-architecture)
+
+<h2><img src="https://static.tildacdn.com/tild3031-3732-4330-b530-343635336234/stihiru.png" style="height:32px;" align="left"> Стихи.ру</h2>
