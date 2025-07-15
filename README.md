@@ -16,6 +16,7 @@
 - [x] [<b>2016</b>. Руководство по HTML/CSS/JavaScript](https://habr.com/ru/articles/275729/)
 - [x] [<b>2016</b>. Несколько дельных советов по CSS](https://habr.com/ru/articles/273403/)
 - [x] [<b>2016</b>. Коллекция практических советов и заметок по вёрстке](https://habr.com/ru/articles/273471/)
+- [x] [<b>2015</b>. Google WebFonts и FontFaceObserver. Используем сторонние шрифты на своем веб-сайте](https://habr.com/ru/articles/258731/)
 - [x] [<b>2015</b>. PHP vs Node.js](https://habr.com/ru/articles/273259/)
 
 <h2>Черновики переводов</h2>
