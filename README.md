@@ -1,5 +1,6 @@
 <h2><img src="https://assets.habr.com/habr-web/img/favicons/favicon-32.png" style="height:28px;width:28px" align="left"> Habr</h2>
 
+- [x] [<b>2025</b>. Async pipe не чистый](https://habr.com/ru/articles/889990/)
 - [x] [<b>2025</b>. Что новенького в Angular 19](https://habr.com/ru/articles/884208/)
 - [x] [<b>2025</b>. Две строки CSS, которые снизили производительность со 120 до 40 FPS](https://habr.com/ru/articles/864840/)
 - [x] [<b>2024</b>. Как пройти собеседование в FAANG. Мой опыт и рекомендации в 2024 году](https://habr.com/ru/articles/820441/)
