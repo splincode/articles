@@ -25,6 +25,7 @@
 
 <h2><img src="https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156" style="height:28px;width:28px" align="left"> Medium</h2>
 
+- [x] [<b>2025</b>. Async pipe не чистый](https://medium.com/@splincode/async-pipe-%D0%BD%D0%B5-%D1%87%D0%B8%D1%81%D1%82%D1%8B%D0%B9-9206b29b9706)
 - [x] [<b>2025</b>. Две строки CSS, которые снизили производительность со 120 до 40 FPS](https://medium.com/@splincode/%D0%B4%D0%B2%D0%B5-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8-css-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D1%81%D0%BD%D0%B8%D0%B7%D0%B8%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D1%81%D0%BE-120-%D0%B4%D0%BE-40-fps-07991e707526)
 - [x] [<b>2023</b>. Что такое деление по модулю в JavaScript?](https://medium.com/@splincode/%D1%87%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE-%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D1%8E-%D0%B2-javascript-5d0e70377b4a)
 - [x] [<b>2022</b>. Каждый день и каждый час…](https://medium.com/@splincode/%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C-%D0%B8-%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9-%D1%87%D0%B0%D1%81-5ade49617601)
