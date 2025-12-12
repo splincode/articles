@@ -1,5 +1,6 @@
 <h2><img src="https://assets.habr.com/habr-web/img/favicons/favicon-32.png" style="height:28px;width:28px" align="left"> Habr</h2>
 
+- [x] [<b>2025</b>. Document PiP vs window.open](https://habr.com/ru/articles/953340/)
 - [x] [<b>2025</b>. Расстаемся с any в TypeScript](https://habr.com/ru/articles/859114/)
 - [x] [<b>2025</b>. Async pipe не чистый](https://habr.com/ru/articles/889990/)
 - [x] [<b>2025</b>. Что новенького в Angular 19](https://habr.com/ru/articles/884208/)
