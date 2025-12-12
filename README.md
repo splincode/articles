@@ -27,6 +27,7 @@
 
 <h2><img src="https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156" style="height:28px;width:28px" align="left"> Medium</h2>
 
+- [x] [<b>2025</b>. Document PiP vs window.open](https://medium.com/@splincode/document-pip-vs-window-open-de18d63deac3)
 - [x] [<b>2025</b>. Расстаемся с any в TypeScript](https://medium.com/@splincode/%D1%80%D0%B0%D1%81%D1%81%D1%82%D0%B0%D0%B5%D0%BC%D1%81%D1%8F-%D1%81-any-%D0%B2-typescript-2cd4940cebef)
 - [x] [<b>2025</b>. Async pipe не чистый](https://medium.com/@splincode/async-pipe-%D0%BD%D0%B5-%D1%87%D0%B8%D1%81%D1%82%D1%8B%D0%B9-9206b29b9706)
 - [x] [<b>2025</b>. Две строки CSS, которые снизили производительность со 120 до 40 FPS](https://medium.com/@splincode/%D0%B4%D0%B2%D0%B5-%D1%81%D1%82%D1%80%D0%BE%D0%BA%D0%B8-css-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D1%81%D0%BD%D0%B8%D0%B7%D0%B8%D0%BB%D0%B8-%D0%BF%D1%80%D0%BE%D0%B8%D0%B7%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C-%D1%81%D0%BE-120-%D0%B4%D0%BE-40-fps-07991e707526)
