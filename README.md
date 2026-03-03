@@ -57,7 +57,7 @@
 <h2>
   <img src="https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156" style="height:28px;width:28px" align="left">
   <img src="https://static.tildacdn.com/tild3031-3732-4330-b530-343635336234/stihiru.png" style="height:32px;" align="left">
-  Стихи.ру + Medium (философская и любовная лирика)
+  Публикации стихов юношеской поры
 </h2>
 
 - [x] [<b>2025</b>. Гонимый ритмом все-успеха](https://medium.com/@splincode/%D1%81%D1%82%D0%B8%D1%85-%D0%B3%D0%BE%D0%BD%D0%B8%D0%BC%D1%8B%D0%B9-%D1%80%D0%B8%D1%82%D0%BC%D0%BE%D0%BC-%D0%B2%D1%81%D0%B5-%D1%83%D1%81%D0%BF%D0%B5%D1%85%D0%B0-0ecb3150f74f)
