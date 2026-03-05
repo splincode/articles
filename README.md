@@ -21,10 +21,6 @@
 - [x] [<b>2015</b>. Google WebFonts и FontFaceObserver. Используем сторонние шрифты на своем веб-сайте](https://habr.com/ru/articles/258731/)
 - [x] [<b>2015</b>. PHP vs Node.js](https://habr.com/ru/articles/273259/)
 
-<h2>Черновики переводов</h2>
-
-- [x] [<b>2017</b>. Перевод Chromium архитектуры](https://github.com/splincode/chromium-architecture)
-
 <h2><img src="https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156" style="height:28px;width:28px" align="left"> Medium</h2>
 
 - [x] [<b>2026</b>. Руководство по JavaScript](https://medium.com/@splincode/%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%BF%D0%BE-javascript-a3e4960081b1)
@@ -54,6 +50,10 @@
 - [x] [<b>2018</b>. Why Angular can be overcomplicated?](https://medium.com/@splincode/why-is-angular-can-be-over-complicated-eda09933cb2a)
 - [x] [<b>2018</b>. Удивительный Angular](https://medium.com/@splincode/%D1%83%D0%B4%D0%B8%D0%B2%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-angular-42238622d170)
 - [x] [<b>2017</b>. Вышел Angular 5](https://medium.com/@splincode/%D0%B2%D1%8B%D1%88%D0%B5%D0%BB-angular-5-af1bc19ff5db)
+
+<h2>Черновики переводов</h2>
+
+- [x] [<b>2017</b>. Перевод Chromium архитектуры](https://github.com/splincode/chromium-architecture)
 
 <h2>
   <img src="https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156" style="height:28px;width:28px" align="left">
