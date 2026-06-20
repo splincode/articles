@@ -55,6 +55,12 @@
 
 - [x] [<b>2017</b>. Перевод Chromium архитектуры](https://github.com/splincode/chromium-architecture)
 
+<hr>
+
+<details>
+  <summary>Публикации стихов юношеской поры</summary>
+
+  
 <h2>
   <img src="https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156" style="height:28px;width:28px" align="left">
   <img src="https://static.tildacdn.com/tild3031-3732-4330-b530-343635336234/stihiru.png" style="height:32px;" align="left">
@@ -130,3 +136,5 @@
 - [x] [<b>2013</b>. Как много](https://stihi.ru/2013/07/13/6253)
 - [x] [<b>2013</b>. Анжелика](https://stihi.ru/2013/07/13/6234)
 - [x] [<b>2013</b>. Дождь](https://stihi.ru/2013/08/28/9168)
+
+</details>
